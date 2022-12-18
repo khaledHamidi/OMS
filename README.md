@@ -37,15 +37,15 @@ to Querys and commands
 ## Work status 
 #### API BASE 
 
-* ![] (https://img.shields.io/badge/API -Ready-green)
-* ![] (https://img.shields.io/badge/MSSQL CODE FIRST -Ready-green)
-* ![] (https://img.shields.io/badge/N-Tier -Ready-green)
-* ![] (https://img.shields.io/badge/CQRS -Ready-green)
+* ![](https://img.shields.io/badge/API_-Ready-green)
+* ![](https://img.shields.io/badge/MSSQL_CODE_FIRST-Ready-green)
+* ![](https://img.shields.io/badge/N-Tier_-Ready-green)
+* ![](https://img.shields.io/badge/CQRS_-Ready-green)
 #### Order system management 
 not done yet. 
-* ![] (https://img.shields.io/badge/Tables -Ready-green)
-* ![] (https://img.shields.io/badge/Add Edit Delete -Ready-green)
-* ![] (https://img.shields.io/badge/Company Orders-not done -orange)
+* ![](https://img.shields.io/badge/Tables_-Ready-green)
+* ![](https://img.shields.io/badge/Add_Edit_Delete -Ready-green)
+* ![](https://img.shields.io/badge/Company_Orders-not_done-orange)
   
 
 
