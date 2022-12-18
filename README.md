@@ -11,8 +11,6 @@
 - n-tier Architecture tree 
 - API Endpoint URL structure Best Practices
 - Entity Framework Core
-- UnitOfWork Pattern
-- AutoMapper
 - Global Error Handling
 - Custom Action Filter
 - Login system Authentication and authorization for master\company\guest
@@ -30,8 +28,25 @@ Project.API - Presentation Layer *.Net Core Web API project*.
 - Project.Common
 ## Design Pattern
 #### CQRS design pattern , Mediatr and Tercihen Onion Architecutre
-custom repositories on defualt repositories with  Data Transfer Object DTO 
+* custom repositories on defualt repositories with  Data Transfer Object DTO 
 to Querys and commands 
+*  AutoMapper
+*  UnitOfWork Pattern
+
+
+## Work status 
+#### API BASE 
+
+* ![](https://img.shields.io/badge/API -Ready-green)
+* ![](https://img.shields.io/badge/MSSQL CODE FIRST -Ready-green)
+* ![](https://img.shields.io/badge/N-Tier -Ready-green)
+* ![](https://img.shields.io/badge/CQRS -Ready-green)
+#### Order system management 
+not done yet. 
+* ![](https://img.shields.io/badge/Tables -Ready-green)
+* ![](https://img.shields.io/badge/Add Edit Delete -Ready-green)
+* ![](https://img.shields.io/badge/Company Orders-not done -orange)
+  
 
 
  
